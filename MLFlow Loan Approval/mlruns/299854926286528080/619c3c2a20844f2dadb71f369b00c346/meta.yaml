@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Python/MLFlow Loan Approval/../mlruns/299854926286528080/619c3c2a20844f2dadb71f369b00c346/artifacts
+end_time: 1771509720080
+entry_point_name: ''
+experiment_id: '299854926286528080'
+lifecycle_stage: active
+run_id: 619c3c2a20844f2dadb71f369b00c346
+run_name: Initial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771509712975
+status: 3
+tags: []
+user_id: MS
